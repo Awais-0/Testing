@@ -1,1 +1,1 @@
-print('as')
+print('ghar')
