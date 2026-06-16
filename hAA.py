@@ -1,1 +1,1 @@
-print('tashigi chaaaaaaaaaaaan!')
+print('tashigi chaaaaaaaaaaaaan!')
